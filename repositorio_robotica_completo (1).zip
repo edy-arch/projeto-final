@@ -9,12 +9,12 @@ O robô utiliza um chassi impresso em 3D, dois motores DC com redução, ponte H
 3. Componentes Utilizados
 
 Componente	Quantidade	Função
-Arduino Mega	1	Unidade de controle
-Motores DC 5V com redução	2	Movimentação
-Ponte H L298N	1	Driver dos motores
-Sensores de linha	3	Detecção da borda
-Sensores ultrassônicos	 4	Identificação do oponente
-Bateria 9V	1	Alimentação
+1-Arduino Mega	Unidade de controle
+2-Motores DC 5V com redução	Movimentação
+1-Ponte H L298N	Driver dos motores
+3-Sensores de linha	Detecção da borda
+3-Sensores ultrassônicos	Identificação do oponente
+1-Bateria 9V	Alimentação
 
 4. Programação
 
